@@ -15,5 +15,3 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=HueyAnthonyDisward&theme=light&hide_border=false)  
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=HueyAnthonyDisward&theme=light&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
-### 😂 Random Dev Meme
-<img src="https://api.memegen.link/images/programmer.png" width="512px"/>
